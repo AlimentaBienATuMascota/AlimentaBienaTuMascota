@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+/* Css Documeto*/
+.logotipo{
+
+	width:45px;
+	height: 45px;
+}
+
+#banner{
+	margin-top: 50px;
+	position: relative;
+}
+
+#banner img{
+	width: 100%;
+	height: 100%;
+}
+#banner .contenedor {
+	
+	
+}
+#banner h2{
+	font-size: 30px;
+}
+#bienvenidos{
+	padding-top: 50px;
+	text-align: center;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 30px;
+	background-color: rgba(0, 0, 0, 0.2);
+}
+#noticias .container{
+
+	padding-top: 30px;
+	padding-bottom: 50px;
+}
+#noticias img {
+
+height:250px ;
+
+}
+.redes{
+	width: 100%;
+	text-align: center;
+	font-size: 28px;
+}
+.redes a{
+	color: #333;
+	text-decoration: none;
+}
